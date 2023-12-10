@@ -7,6 +7,7 @@ All token projects I have contributed/co-created by using my master project are 
 # Blue Collar Dollar/BCD
 **project website:** https://phoenixunchained.co
 
+**Project E-mail:** phoenixunchained.x@ud.me
 
 # DireX-Smart-Logistics
 
