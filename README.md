@@ -10,4 +10,4 @@ project website https://phoenixunchained.co
 
 # DireX Logistics
 # OM/XOM
-project website (www.wanderingfootprint.org)
+project website www.wanderingfootprint.org
