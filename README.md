@@ -5,6 +5,6 @@ All token projects from my master project are listed here.
 # Blue Collar Dollar/BCD
 [project website (https://phoenixunchained.co)]
 
-[project whitepaper (https://phoenixunchained.pdf)]
+[project whitepaper (phoenixunchained.pdf)]
 # DireX Logistics
 # OM/XOM
