@@ -1,7 +1,7 @@
 # PhoenixUnchained
-PhoenixUnchained is my project/brandname/logo I use to represent my system of beliefs.
+PhoenixUnchained is my master project/brandname/logo I use to represent my system of beliefs and valuations.
 
-All projects from this project creator listed here.
+All token projects from my master project are listed here.
 # Blue Collar Dollar/BCD
 # DireX Logistics
 # OM/XOM
