@@ -5,7 +5,7 @@
 
 All token projects I have contributed/co-created by using my master project are listed here.
 # Blue Collar Dollar/BCD
-project website (https://phoenixunchained.co)
+project website https://phoenixunchained.co
 
 
 # DireX Logistics
