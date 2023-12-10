@@ -5,12 +5,12 @@
 
 All token projects I have contributed/co-created by using my master project are listed here.
 # Blue Collar Dollar/BCD
-project website https://phoenixunchained.co
+**project website:** https://phoenixunchained.co
 
 
 # DireX-Smart-Logistics
 
-project website
+**project website:**
 
 # OM/XOM
-project website www.wanderingfootprint.org
+**project website:** www.wanderingfootprint.org
