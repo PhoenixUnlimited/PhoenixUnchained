@@ -15,5 +15,13 @@ All token projects I have contributed/co-created by using my master project are 
 
 **project website:**
 
+**Project E-mail:**
+
+**Project API:**
+
 # OM/XOM
 **project website:** www.wanderingfootprint.org
+
+**Project E-mail:**
+
+**Project API:**
