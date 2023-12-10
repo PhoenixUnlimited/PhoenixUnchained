@@ -1,5 +1,5 @@
 # PhoenixUnchained
-My name is : Chad-Richard: Smith.
+**My name is**: Chad-Richard: Smith.
 
 PhoenixUnchained is my master project/brandname/logo I use to represent my system of beliefs and valuations.
 
