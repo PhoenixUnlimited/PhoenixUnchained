@@ -8,6 +8,9 @@ All token projects I have contributed/co-created by using my master project are 
 project website https://phoenixunchained.co
 
 
-# DireX Logistics
+# DireX-Smart-Logistics
+
+project website
+
 # OM/XOM
 project website www.wanderingfootprint.org
