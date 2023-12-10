@@ -10,4 +10,4 @@ All token projects I have contributed/co-created by using my master project are 
 
 # DireX Logistics
 # OM/XOM
-[project website (https;//wanderingfootprint.org)]
+[project website (https;//www.wanderingfootprint.org)]
