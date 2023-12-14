@@ -23,7 +23,8 @@ phoenixunchained.x@ud.me
 
 **Project API:**
 
-# OM/XOM
+# OM/XOM - Wandering footprint
+
 **project website:**
 
 www.wanderingfootprint.org
@@ -32,10 +33,16 @@ www.wanderingfootprint.org
 
 **Project API:**
 
-# XUM/XWM
+# XUM/XWM - Universal Money/World Money
 
 **Project websites**
 
 https://worldmoney.io
 
 https://xumcrypto.com 
+
+**Project E-mail/contact:**
+
+Telegram connection
+
+**Project API**
