@@ -1,7 +1,7 @@
 # PhoenixUnchained
 **My name is:** Chad-Richard: Smith.
 
-**PhoenixUnchained** is my master project/brandname/logo I use to represent my system of beliefs and valuations.
+**PhoenixUnchained** is my master project/brandname/logo I use to represent the projects that i am involved with which creates my system of financial beliefs and valuation models.
 
 All token projects I have contributed/co-created by using my master project are listed here.
 # Blue Collar Dollar/BCD
