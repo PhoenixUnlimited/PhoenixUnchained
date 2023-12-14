@@ -28,4 +28,4 @@ All token projects I have contributed/co-created by using my master project are 
 
 # XUM/XWM
 
-**Project websites** (worldmoney.io) 
+**Project websites** worldmoney.io 
