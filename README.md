@@ -1,13 +1,17 @@
 # PhoenixUnchained
-**My name is**: Chad-Richard: Smith.
+**My name is:** Chad-Richard: Smith.
 
 **PhoenixUnchained** is my master project/brandname/logo I use to represent my system of beliefs and valuations.
 
 All token projects I have contributed/co-created by using my master project are listed here.
 # Blue Collar Dollar/BCD
-**project website:** https://phoenixunchained.co
+**project website:**
 
-**Project E-mail:** phoenixunchained.x@ud.me
+https://phoenixunchained.co
+
+**Project E-mail:**
+
+phoenixunchained.x@ud.me
 
 **Project API:**
 
@@ -20,7 +24,9 @@ All token projects I have contributed/co-created by using my master project are 
 **Project API:**
 
 # OM/XOM
-**project website:** www.wanderingfootprint.org
+**project website:**
+
+www.wanderingfootprint.org
 
 **Project E-mail:**
 
@@ -28,4 +34,8 @@ All token projects I have contributed/co-created by using my master project are 
 
 # XUM/XWM
 
-**Project websites** https://worldmoney.io https://xumcrypto.com 
+**Project websites**
+
+https://worldmoney.io
+
+https://xumcrypto.com 
